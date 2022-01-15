@@ -23,9 +23,11 @@
         android:fontFamily="@font/rock_salt"
         android:textAlignment="center"
         android:textColor="#FD0303"
-        android:textSize="43sp"
+        android:textSize="30sp"
         android:textStyle="bold"
-        tools:text="Praise the sun" />
+        android:textAllCaps="false"
+        android:text="Praise the sun" />
+
 
     <TextView
         android:id="@+id/textView2"
